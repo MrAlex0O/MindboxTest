@@ -1,0 +1,23 @@
+В базе данных MS SQL Server есть продукты и категории. 
+Одному продукту может соответствовать много категорий, 
+в одной категории может быть много продуктов. 
+Напишите SQL запрос для выбора всех пар 
+«Имя продукта – Имя категории». Если у продукта 
+нет категорий, то его имя все равно должно выводиться.
+
+CREATE TABLE "Products"
+{
+"Id" int IDENTITY(1,1) NOT NULL PRIMARY KEY,
+"Name" text NOT NULL,
+"CategoryId" int NULL REFERENCES "Categories" ("Id") 
+}
+CREATE TABLE "Categories"
+{
+"Id" int IDENTITY(1,1) NOT NULL PRIMARY KEY,
+"Name" text NOT NULL
+}
+
+SELECT "Products"."Name", "Categories"."Name"
+FROM "Products"
+LEFT JOIN "Categories" ON "Products"."CategoryId" = "Categories"."Id"
+ORDER BY "Products"."Id"
