@@ -1,0 +1,15 @@
+D:\Projects\mindboxTest\mindboxTest\bin\Debug\net6.0\mindbox.exe
+D:\Projects\mindboxTest\mindboxTest\bin\Debug\net6.0\mindbox.deps.json
+D:\Projects\mindboxTest\mindboxTest\bin\Debug\net6.0\mindbox.runtimeconfig.json
+D:\Projects\mindboxTest\mindboxTest\bin\Debug\net6.0\mindbox.dll
+D:\Projects\mindboxTest\mindboxTest\bin\Debug\net6.0\mindbox.pdb
+D:\Projects\mindboxTest\mindboxTest\obj\Debug\net6.0\mindbox.csproj.AssemblyReference.cache
+D:\Projects\mindboxTest\mindboxTest\obj\Debug\net6.0\mindbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\mindboxTest\mindboxTest\obj\Debug\net6.0\mindbox.AssemblyInfoInputs.cache
+D:\Projects\mindboxTest\mindboxTest\obj\Debug\net6.0\mindbox.AssemblyInfo.cs
+D:\Projects\mindboxTest\mindboxTest\obj\Debug\net6.0\mindbox.csproj.CoreCompileInputs.cache
+D:\Projects\mindboxTest\mindboxTest\obj\Debug\net6.0\mindbox.dll
+D:\Projects\mindboxTest\mindboxTest\obj\Debug\net6.0\refint\mindbox.dll
+D:\Projects\mindboxTest\mindboxTest\obj\Debug\net6.0\mindbox.pdb
+D:\Projects\mindboxTest\mindboxTest\obj\Debug\net6.0\mindbox.genruntimeconfig.cache
+D:\Projects\mindboxTest\mindboxTest\obj\Debug\net6.0\ref\mindbox.dll
